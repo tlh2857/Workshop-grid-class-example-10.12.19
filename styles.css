@@ -1,0 +1,7 @@
+ .container .row {
+    border: solid 1px black;
+}
+
+.first-row{
+    height:100px;
+    background-color: aqua;
